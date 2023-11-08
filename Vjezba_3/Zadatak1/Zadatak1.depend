@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1698257598 source:c:\users\38595\onedrive\desktop\zadatak1\main.cpp
+	<iostream>
+	<vector>
+	"zadatak1.hpp"
+
+1698257691 source:c:\users\38595\onedrive\desktop\zadatak1\src\zadatak1.cpp
+	"zadatak1.hpp"
+	<iostream>
+	<vector>
+
+1698257572 c:\users\38595\onedrive\desktop\zadatak1\include\zadatak1.hpp
+	<vector>
+
+1698867718 source:c:\users\38595\onedrive\desktop\objektno3\zadatak1\main.cpp
+	<iostream>
+	<vector>
+	"zadatak1.hpp"
+
+1698867718 c:\users\38595\onedrive\desktop\objektno3\zadatak1\include\zadatak1.hpp
+	<vector>
+
+1698867678 source:c:\users\38595\onedrive\desktop\objektno3\zadatak1\src\zadatak1.cpp
+	"zadatak1.hpp"
+	<iostream>
+	<vector>
+
