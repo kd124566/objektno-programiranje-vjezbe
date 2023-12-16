@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\38595\OneDrive\Desktop\Vjezba_7\main.cpp(11,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Owner.cpp
+  VirtualPet.cpp
+  Generating Code...
+C:\Users\38595\OneDrive\Desktop\Vjezba_7\VirtualPet.cpp(103): warning C4715: 'operator<': not all control paths return a value
+C:\Users\38595\OneDrive\Desktop\Vjezba_7\VirtualPet.cpp(116): warning C4715: 'operator<=': not all control paths return a value
+C:\Users\38595\OneDrive\Desktop\Vjezba_7\VirtualPet.cpp(122): warning C4715: 'operator>=': not all control paths return a value
+C:\Users\38595\OneDrive\Desktop\Vjezba_7\VirtualPet.cpp(110): warning C4715: 'operator>': not all control paths return a value
+  objektno_06.vcxproj -> C:\Users\38595\OneDrive\Desktop\Vjezba_7\x64\Debug\objektno_06.exe
